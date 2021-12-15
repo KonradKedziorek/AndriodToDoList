@@ -1,0 +1,19 @@
+
+A
+gradle.properties,2\a\2afbb999f001938c88fa43fc2ef52abf0f8213e4
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+h
+8app/src/main/java/com/example/secondandroidapp/Task.java,3\9\39f82209b91a88f13655b6669779cb20eeabbd58
+p
+@app/src/main/java/com/example/secondandroidapp/TaskFragment.java,3\6\36f2e8f159baf6546c8d1b56ab3f44cd15accc65
+t
+Dapp/src/main/java/com/example/secondandroidapp/TaskListActivity.java,1\a\1a184fadcb6ee709613cffb0a77bd1cf5fb238a7
+t
+Dapp/src/main/java/com/example/secondandroidapp/TaskListFragment.java,6\e\6ee86b7f7816483bbcb1104ce177a0fc0740aa17
+o
+?app/src/main/java/com/example/secondandroidapp/TaskStorage.java,8\f\8f12be868d9d9834c1db81df0d0f2bffe59e6439
+p
+@app/src/main/java/com/example/secondandroidapp/MainActivity.java,9\0\90b9829be01ca81c2022f5b5e2a4aaa2fc0d00a9
+z
+Japp/src/main/java/com/example/secondandroidapp/SingleFragmentActivity.java,2\b\2bd4f9ec1e0d498afb7ba2594d0820074a94edcc
